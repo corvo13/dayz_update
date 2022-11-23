@@ -10,7 +10,7 @@
 	<update>
 		<version>1.5</version>
 		<file>UPDATE1.zip</file>		
-		<html>http://201.46.47.80/dayz/UPDATE1.4.zip</html>		
+		<html>http://201.46.47.80/dayz/UPDATE1.5.zip</html>		
 		<command>false</command>
 		<execute>false</execute>
 	</update>
