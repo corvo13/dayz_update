@@ -21,4 +21,11 @@
 		<command>false</command>
 		<execute>false</execute>
 	</update>
+	<update>
+		<version>1.10</version>
+		<file>UPDATE1.10.zip</file>		
+		<html>http://201.46.47.80/dayz/UPDATE1.10.zip</html>		
+		<command>false</command>
+		<execute>false</execute>
+	</update>
 </root>
