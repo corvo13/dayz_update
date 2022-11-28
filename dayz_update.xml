@@ -22,9 +22,9 @@
 		<execute>false</execute>
 	</update>
 	<update>
-		<version>1.7</version>
-		<file>UPDATE4.zip</file>		
-		<html>http://201.46.47.80/dayz/UPDATE1.7.zip</html>		
+		<version>1.8</version>
+		<file>UPDATE1.8.zip</file>		
+		<html>http://201.46.47.80/dayz/UPDATE1.8.zip</html>		
 		<command>false</command>
 		<execute>false</execute>
 	</update>
